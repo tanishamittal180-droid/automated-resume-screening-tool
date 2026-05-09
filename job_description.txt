@@ -1,0 +1,11 @@
+We are looking for a Python Developer.
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Pandas
+NumPy
+Flask
+APIs
+Git
